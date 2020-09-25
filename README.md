@@ -1,0 +1,2 @@
+# SaltStack
+Ramblings in Salt
